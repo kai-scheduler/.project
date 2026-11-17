@@ -23,7 +23,7 @@ repositories:
 
 website: "https://github.com/kai-scheduler/KAI-Scheduler"
 
-artwork: "https://landscape.cncf.io/logos/cncf.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kai-scheduler"
 
 adopters:
   path: "https://github.com/kai-scheduler/KAI-Scheduler/blob/main/ADOPTERS.md"
